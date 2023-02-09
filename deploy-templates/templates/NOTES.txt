@@ -1,0 +1,1 @@
+1. Application fastapi has been successfully deployed!!
